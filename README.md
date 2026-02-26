@@ -1,31 +1,41 @@
 
-![MasterHead](https://semidotinfotech.com/web/images/javascript_banner.jpg)
+Readme · MD
+Copy
 
-<h1 align="center">Hi 👋, I'm Velihan Toptaş</h1>
-<h3 align="center">I am continuously developing my skills in software engineering, with a focus on front-end technologies. I have worked with various programming languages such as C, JavaScript, and Java. I am constantly looking to improve my knowledge and stay up to date with the latest advancements in the field.</h3>
+# Hey, I'm Velihan 👋
 
+**Full-Stack Developer** building enterprise web applications for the banking & fintech sector.
 
-<img align="right" alt="Coding" width="400" src="https://movementstrategy.com/wp-content/themes/bigdrop-theme/mortyawardy/the-gist-of-it.gif">
+2.5+ years of hands-on experience developing complex financial systems — dashboards, risk management platforms, multi-step workflows, and reporting systems — for major Turkish banks including Denizbank, Nurol Bank, and DenizbankAG.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velihantpts&label=Profile%20views&color=0e75b6&style=flat" alt="velihantpts" /> </p>
+## What I Work With
 
-- 🔭 I’m currently working on [Atlas](https://github.com/nugeaydinlar/Atlas.git)
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Ant Design  
+**Backend:** C# .NET · Node.js · REST APIs · Microservices · Entity Framework  
+**Database:** PostgreSQL · SQL Server · Prisma · T-SQL · Stored Procedures  
+**Tools:** Git · Docker · Jira · SonarQube · Vercel · Jenkins
 
-- 🌱 I’m currently learning **React JS**
+## Featured Projects
 
-- 📫 How to reach me **velihantpts@gmail.com**
+🏦 **[FinanceHub — Treasury Dashboard](https://finance-dashboard-phi-orcin.vercel.app)**  
+Full-stack enterprise finance dashboard with real-time KPIs, interactive charts, risk assessment, and transaction management.  
+`Next.js` `TypeScript` `Tailwind CSS` `Recharts` `PostgreSQL` `Prisma` `NextAuth.js`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/velihantpts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="velihantpts" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/velihan-t-135033141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="velihan-t-135033141" height="30" width="40" /></a>
-</p>
+📋 **[SaaS Project Management Tool](https://github.com/velihantpts/saas-pm-tool)**  
+Project management platform with authentication, task tracking, and team collaboration.  
+`Next.js` `TypeScript` `shadcn/ui` `PostgreSQL` `Prisma`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## What I've Built Professionally
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=velihantpts&show_icons=true&locale=en&layout=compact" alt="velihantpts" /></p>
+- Risk assessment platforms with algorithmic scoring engines
+- 10-stage operational workflow systems with distributed transactions (Saga Pattern)
+- Real-time analytics dashboards with interactive data visualization
+- Multi-server reporting systems with automated ETL processes
+- Legacy system modernization — class components to React Hooks
+- Corporate card management systems with external API integration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velihantpts&show_icons=true&locale=en" alt="velihantpts" /></p>
+## Let's Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velihantpts&" alt="velihantpts" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/velihan-t-135033141)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/velihant)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:velihantpts@gmail.com)
